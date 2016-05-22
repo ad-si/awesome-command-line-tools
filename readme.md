@@ -62,3 +62,18 @@
 - [Aasciinema] - Terminal session recorder
 
 [Aasciinema]: https://github.com/asciinema/asciinema
+
+
+## Related
+
+- [Awesome CLI Apps] - A curated list of command line apps.
+- [Awesome Command Line Apps] - A curated list of useful command line apps,
+    in celebration of the TUI
+- [Awesome OS X Command Line]- A curated list of shell commands and tools
+    specific to OS X.
+
+[Awesome CLI Apps]: https://github.com/aharris88/awesome-cli-apps
+[Awesome Command Line Apps
+  ]: https://github.com/herrbischoff/awesome-command-line-apps
+[Awesome OS X Command Line
+  ]: https://github.com/herrbischoff/awesome-osx-command-line
