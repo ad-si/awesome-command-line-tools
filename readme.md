@@ -1,5 +1,32 @@
 # Awesome Command Line Tools
 
+A curated list of awesome CLI tools.
+
+---
+
+**Table Of Contents**
+
+<!-- toc -->
+
+- [Galleries](#galleries)
+- [Converter](#converter)
+- [Low Level Libraries](#low-level-libraries)
+- [Charts](#charts)
+- [Art](#art)
+- [Editors](#editors)
+- [Terminal Recorder](#terminal-recorder)
+- [File Viewers](#file-viewers)
+- [File Managers & Browsers](#file-managers--browsers)
+- [Search & Find](#search--find)
+- [Disk Usage](#disk-usage)
+- [System & Process Monitors](#system--process-monitors)
+- [Network & HTTP](#network--http)
+- [Shell Utilities](#shell-utilities)
+- [Data Processing](#data-processing)
+- [Documentation & Help](#documentation--help)
+- [Related](#related)
+
+<!-- tocstop -->
 ## Galleries
 
 - [text-mode.tumblr.com] - A collection of text graphics and related works,
