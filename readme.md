@@ -27,22 +27,21 @@ A curated list of awesome CLI tools.
 - [Related](#related)
 
 <!-- tocstop -->
+
 ## Galleries
 
 - [text-mode.tumblr.com] - A collection of text graphics and related works,
     stretching back thousands of years
 
-[text-mode.tumblr.com]: http://text-mode.tumblr.com
+[text-mode.tumblr.com]: https://text-mode.tumblr.com
 
 
 ## Converter
 
 - [img2ascii.sourceforge.net] - A PHP program, that generates ASCII images
     from JPG, GIF* or PNG images
-- [Textinator] - A command line image viewer
 
-[img2ascii.sourceforge.net]: http://img2ascii.sourceforge.net
-[Textinator]: https://github.com/ijks/textinator
+[img2ascii.sourceforge.net]: https://img2ascii.sourceforge.net
 
 
 ## Low Level Libraries
@@ -63,7 +62,7 @@ A curated list of awesome CLI tools.
 
 [Blessed Contrib]: https://github.com/yaronn/blessed-contrib
 [ASCIImage]: https://github.com/cparnot/ASCIImage
-[Node Progress]: https://github.com/tj/node-progress
+[Node Progress]: https://github.com/visionmedia/node-progress
 [Terminal Table]: https://github.com/tj/terminal-table
 [CLI Chart]: https://github.com/andrewjstone/cli-chart
 
@@ -73,7 +72,7 @@ A curated list of awesome CLI tools.
 - [Cool ASCII Faces] - Get some cool ascii faces.
 - [Animals] - ASCII animals in your terminal.
 
-[Cool ASCII Faces]: https://github.com/maxogden
+[Cool ASCII Faces]: https://github.com/max-mapper/cool-ascii-faces
 [Animals]: https://github.com/ivolo/animals
 
 
@@ -83,7 +82,7 @@ A curated list of awesome CLI tools.
 - [micro] - Modern terminal text editor
 - [sd] - Intuitive find/replace command
 
-[playscii]: http://vectorpoem.com/playscii
+[playscii]: https://jplebreton.com/playscii/
 [micro]: https://github.com/micro-editor/micro
 [sd]: https://github.com/chmln/sd
 
@@ -211,11 +210,11 @@ A curated list of awesome CLI tools.
 - [Awesome CLI Apps] - A curated list of command line apps.
 - [Awesome Command Line Apps] - A curated list of useful command line apps,
     in celebration of the TUI
-- [Awesome OS X Command Line]- A curated list of shell commands and tools
-    specific to OS X.
+- [Awesome macOS Command Line] - A curated list of shell commands and tools
+    specific to macOS.
 
-[Awesome CLI Apps]: https://github.com/aharris88/awesome-cli-apps
+[Awesome CLI Apps]: https://github.com/agarrharr/awesome-cli-apps
 [Awesome Command Line Apps
   ]: https://github.com/herrbischoff/awesome-command-line-apps
-[Awesome OS X Command Line
-  ]: https://github.com/herrbischoff/awesome-osx-command-line
+[Awesome macOS Command Line
+  ]: https://github.com/herrbischoff/awesome-macos-command-line
