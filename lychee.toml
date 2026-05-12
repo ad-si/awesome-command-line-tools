@@ -1,0 +1,6 @@
+max_redirects = 0
+require_https = true
+
+# These hosts block automated link checkers but work in browsers,
+# or have certificate issues that don't affect real users.
+exclude = []
