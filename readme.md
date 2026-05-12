@@ -80,8 +80,12 @@ A curated list of awesome CLI tools.
 ## Editors
 
 - [Playscii] - An open source ASCII art program
+- [micro] - Modern terminal text editor
+- [sd] - Intuitive find/replace command
 
 [playscii]: http://vectorpoem.com/playscii
+[micro]: https://github.com/micro-editor/micro
+[sd]: https://github.com/chmln/sd
 
 
 ## Terminal Recorder
@@ -89,6 +93,117 @@ A curated list of awesome CLI tools.
 - [Aasciinema] - Terminal session recorder
 
 [Aasciinema]: https://github.com/asciinema/asciinema
+
+
+## File Viewers
+
+- [bat] - Syntax-highlighted `cat` clone with git integration
+- [eza] - Modern `ls`/`tree` replacement (exa fork)
+- [lsd] - Next-gen `ls` with backwards compatibility
+- [delta] - Git and diff output viewer
+
+[bat]: https://github.com/sharkdp/bat
+[eza]: https://github.com/eza-community/eza
+[lsd]: https://github.com/lsd-rs/lsd
+[delta]: https://github.com/dandavison/delta
+
+
+## File Managers & Browsers
+
+- [broot] - Enhanced `tree` with navigation
+- [nnn] - Fast terminal file manager
+
+[broot]: https://github.com/Canop/broot
+[nnn]: https://github.com/jarun/nnn
+
+
+## Search & Find
+
+- [fd] - Fast `find` alternative
+- [bfs] - Breadth-first `find` alternative
+- [ripgrep] - Fast grep respecting gitignore
+- [ag] - Fast code search tool (The Silver Searcher)
+- [fzf] - Fuzzy command-line finder
+- [choose] - Human-friendly `cut`/`awk` alternative
+
+[fd]: https://github.com/sharkdp/fd
+[bfs]: https://github.com/tavianator/bfs
+[ripgrep]: https://github.com/BurntSushi/ripgrep
+[ag]: https://github.com/ggreer/the_silver_searcher
+[fzf]: https://github.com/junegunn/fzf
+[choose]: https://github.com/theryangeary/choose
+
+
+## Disk Usage
+
+- [ncdu] - Disk usage analyzer with ncurses interface
+- [dust] - Intuitive `du` replacement in Rust
+- [duf] - Better `df` alternative
+
+[ncdu]: https://dev.yorhel.nl/ncdu
+[dust]: https://github.com/bootandy/dust
+[duf]: https://github.com/muesli/duf
+
+
+## System & Process Monitors
+
+- [bottom] - System/process monitor
+- [glances] - `top`/`htop` alternative
+- [gtop] - Terminal system monitoring dashboard
+- [procs] - Rust-based `ps` replacement
+
+[bottom]: https://github.com/ClementTsang/bottom
+[glances]: https://github.com/nicolargo/glances
+[gtop]: https://github.com/aksakalli/gtop
+[procs]: https://github.com/dalance/procs
+
+
+## Network & HTTP
+
+- [httpie] - User-friendly HTTP client
+- [curlie] - Hybrid curl/httpie tool
+- [xh] - Performance-focused httpie alternative
+- [gping] - `ping` with graph visualization
+
+[httpie]: https://github.com/httpie/cli
+[curlie]: https://github.com/rs/curlie
+[xh]: https://github.com/ducaale/xh
+[gping]: https://github.com/orf/gping
+
+
+## Shell Utilities
+
+- [zoxide] - Smarter `cd` command
+- [mcfly] - Interactive shell history browser
+- [hyperfine] - Command-line benchmarking tool
+- [up] - Pipes with instant live preview
+
+[zoxide]: https://github.com/ajeetdsouza/zoxide
+[mcfly]: https://github.com/cantino/mcfly
+[hyperfine]: https://github.com/sharkdp/hyperfine
+[up]: https://github.com/akavel/up
+
+
+## Data Processing
+
+- [jq] - JSON query and transformation tool
+
+[jq]: https://github.com/jqlang/jq
+
+
+## Documentation & Help
+
+- [tldr] - Practical command examples
+- [tealdeer] - Fast Rust tldr implementation
+- [ManKier] - Concise pretty man page explainer
+- [explainshell] - Command argument matcher
+- [cheat.sh] - Unified cheatsheets and tldr
+
+[tldr]: https://github.com/tldr-pages/tldr
+[tealdeer]: https://github.com/tealdeer-rs/tealdeer
+[ManKier]: https://www.mankier.com
+[explainshell]: https://explainshell.com
+[cheat.sh]: https://cheat.sh
 
 
 ## Related
