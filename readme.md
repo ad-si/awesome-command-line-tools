@@ -174,6 +174,7 @@ A curated list of awesome CLI tools.
 
 - [zoxide] - Smarter `cd` command
 - [mcfly] - Interactive shell history browser
+- **[supercli](https://github.com/javimosch/supercli)** - Universal CLI router with 7,000+ plugins. One command pattern (`ns res action`) for every tool. JSON-by-default output, agent-native discovery.
 - [hyperfine] - Command-line benchmarking tool
 - [up] - Pipes with instant live preview
 
