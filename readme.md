@@ -175,11 +175,13 @@ A curated list of awesome CLI tools.
 - [zoxide] - Smarter `cd` command
 - [mcfly] - Interactive shell history browser
 - **[supercli](https://github.com/javimosch/supercli)** - Universal CLI router with 7,000+ plugins. One command pattern (`ns res action`) for every tool. JSON-by-default output, agent-native discovery.
+- [tree-ring] - Local-first memory lifecycle CLI for AI agents
 - [hyperfine] - Command-line benchmarking tool
 - [up] - Pipes with instant live preview
 
 [zoxide]: https://github.com/ajeetdsouza/zoxide
 [mcfly]: https://github.com/cantino/mcfly
+[tree-ring]: https://github.com/TerminallyLazy/Tree-Ring-Memory
 [hyperfine]: https://github.com/sharkdp/hyperfine
 [up]: https://github.com/akavel/up
 
