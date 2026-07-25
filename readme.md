@@ -163,11 +163,13 @@ A curated list of awesome CLI tools.
 - [curlie] - Hybrid curl/httpie tool
 - [xh] - Performance-focused httpie alternative
 - [gping] - `ping` with graph visualization
+- [prerenderbuddy] - CLI for comparing rendered and crawler-visible HTML
 
 [httpie]: https://github.com/httpie/cli
 [curlie]: https://github.com/rs/curlie
 [xh]: https://github.com/ducaale/xh
 [gping]: https://github.com/orf/gping
+[prerenderbuddy]: https://github.com/kopachlager/prerenderbuddy-cli
 
 
 ## Shell Utilities
