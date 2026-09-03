@@ -177,11 +177,13 @@ A curated list of awesome CLI tools.
 - **[supercli](https://github.com/javimosch/supercli)** - Universal CLI router with 7,000+ plugins. One command pattern (`ns res action`) for every tool. JSON-by-default output, agent-native discovery.
 - [hyperfine] - Command-line benchmarking tool
 - [up] - Pipes with instant live preview
+- [YYLO] - Kanban-driven orchestrator which runs CLI coding agents like Claude Code, Codex, and Gemini CLI across isolated git worktrees
 
 [zoxide]: https://github.com/ajeetdsouza/zoxide
 [mcfly]: https://github.com/cantino/mcfly
 [hyperfine]: https://github.com/sharkdp/hyperfine
 [up]: https://github.com/akavel/up
+[YYLO]: https://github.com/yylo-dev/yylo
 
 
 ## Data Processing
