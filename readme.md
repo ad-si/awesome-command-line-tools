@@ -178,12 +178,14 @@ A curated list of awesome CLI tools.
 - [hyperfine] - Command-line benchmarking tool
 - [up] - Pipes with instant live preview
 - [YYLO] - Kanban-driven orchestrator which runs CLI coding agents like Claude Code, Codex, and Gemini CLI across isolated git worktrees
+- [YYLO Ledger] - Git-native Kanban task manager which stores boards, task state and release receipts as Markdown in the repository
 
 [zoxide]: https://github.com/ajeetdsouza/zoxide
 [mcfly]: https://github.com/cantino/mcfly
 [hyperfine]: https://github.com/sharkdp/hyperfine
 [up]: https://github.com/akavel/up
 [YYLO]: https://github.com/yylo-dev/yylo
+[YYLO Ledger]: https://github.com/yylo-dev/yylo-ledger
 
 
 ## Data Processing
