@@ -163,11 +163,13 @@ A curated list of awesome CLI tools.
 - [curlie] - Hybrid curl/httpie tool
 - [xh] - Performance-focused httpie alternative
 - [gping] - `ping` with graph visualization
+- [prt] - Live port inspector for macOS and Linux with process details and SSH tunnel health
 
 [httpie]: https://github.com/httpie/cli
 [curlie]: https://github.com/rs/curlie
 [xh]: https://github.com/ducaale/xh
 [gping]: https://github.com/orf/gping
+[prt]: https://github.com/rekurt/prt
 
 
 ## Shell Utilities
